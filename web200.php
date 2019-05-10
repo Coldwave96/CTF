@@ -12,5 +12,5 @@ function decode($str){
     return $flag;
 }
 
-	echo decode('a1zLbgQsCESEIqRLwuQAyMwLyq2L5VwBxqGA3RQAyumZ0tmMvSGM2ZwB4tws');
+    echo decode('a1zLbgQsCESEIqRLwuQAyMwLyq2L5VwBxqGA3RQAyumZ0tmMvSGM2ZwB4tws');
 ?>
